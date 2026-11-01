@@ -19,8 +19,8 @@ Publicado: abra el sitio de GitHub Pages indicado abajo.
 Uso del kardex: cree un material, selecciónelo en la lista, elija ENTRADA o SALIDA, escriba una cantidad entera positiva y registre. «Exportar CSV» descarga `movimientos-materiales.csv`.
 
 ## Publicación
-Repositorio: [PEGAR AQUÍ LA URL DEL REPOSITORIO]
-Sitio GitHub Pages: [PEGAR AQUÍ LA URL QUE MUESTRA GITHUB PAGES]
+Repositorio: https://github.com/caicharoiraida-crypto/planificador-kardex
+Sitio GitHub Pages: https://caicharoiraida-crypto.github.io/planificador-kardex/
 
 ## Aportes y ayuda recibida
 - Recursos del curso: plantilla S7 y «Fragmentos de integración · ET505 · S9» (docente Mg. Max Aldo Hidalgo Chávez).
